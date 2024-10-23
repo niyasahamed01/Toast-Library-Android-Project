@@ -4,10 +4,10 @@
 
 	repositories {
  
-			mavenCentral()
-			maven { url 'https://jitpack.io' }
+		 mavenCentral()
+		 maven { url 'https://jitpack.io' }
    
-		}
+	}
 
 **Step 2.** Add the dependency
 
